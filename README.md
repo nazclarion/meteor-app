@@ -1,5 +1,5 @@
 # meteor-app
-Meteor boilerplate application
+Meteor boilerplate applications collection
 ___
 
 
