@@ -6,6 +6,6 @@ ___
 ### Description
 Basic React meteor boilerplate.
 
-- [Meteor quickstart guide](https://guide.meteor.com/react.html)
-- [Meteor tutorial](https://www.meteor.com/tutorials/react/creating-an-app)
+- [Meteor React guide](https://guide.meteor.com/react.html)
+- [Meteor React tutorial](https://www.meteor.com/tutorials/react/creating-an-app)
 - [React vs. Blaze](https://themeteorchef.com/blog/react-vs-blaze/)
